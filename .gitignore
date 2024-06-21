@@ -1,0 +1,15 @@
+# Fichiers de configuration sensibles
+.env
+
+# Dossiers de dépendances
+node_modules/
+vendor/
+
+# Fichiers générés automatiquement
+dist/
+*.log
+
+# Dossiers et fichiers de l'IDE
+.vscode/
+.idea/
+*.swp
